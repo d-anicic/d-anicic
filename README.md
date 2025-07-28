@@ -1,4 +1,4 @@
-# Hi, I'm Danicic! 👋
+# Hi, I'm Dajana! 👋
 
 Welcome to my GitHub profile!
 
