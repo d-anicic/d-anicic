@@ -22,11 +22,8 @@ I'm passionate about web design and creating clean, responsive websites. I enjoy
 
 ---
 
-## 📫 Get in Touch
-
-- Email: your-email@example.com  
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Portfolio Website: [yourwebsite.com](https://yourwebsite.com)
+
 
 ---
 
